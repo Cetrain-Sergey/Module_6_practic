@@ -1,1 +1,1 @@
-this is the answer to 6 module
+this is the answer to the 6th module practical task
